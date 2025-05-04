@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#3B82F6"/>
+  
+  <!-- Inner circle -->
+  <circle cx="256" cy="256" r="220" fill="#2563EB"/>
+  
+  <!-- Blockchain nodes and connections -->
+  <circle cx="256" cy="160" r="40" fill="#FFFFFF"/>
+  <circle cx="160" cy="256" r="40" fill="#FFFFFF"/>
+  <circle cx="352" cy="256" r="40" fill="#FFFFFF"/>
+  <circle cx="256" cy="352" r="40" fill="#FFFFFF"/>
+  
+  <!-- Node connections -->
+  <path d="M226 179L189 226" stroke="#FFFFFF" stroke-width="8"/>
+  <path d="M286 179L323 226" stroke="#FFFFFF" stroke-width="8"/>
+  <path d="M323 286L286 333" stroke="#FFFFFF" stroke-width="8"/>
+  <path d="M189 286L226 333" stroke="#FFFFFF" stroke-width="8"/>
+  
+  <!-- Coin symbol -->
+  <text x="256" y="265" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle">BC</text>
+</svg>

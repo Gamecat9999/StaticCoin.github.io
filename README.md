@@ -1,0 +1,1 @@
+# StaticCoin.github.io
